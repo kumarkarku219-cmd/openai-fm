@@ -1,11 +1,4 @@
-# OpenAI.fm
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![NextJS](https://img.shields.io/badge/Built_with-NextJS-blue)
-![OpenAI API](https://img.shields.io/badge/Powered_by-OpenAI_API-orange)
-
-[OpenAI.fm](https://openai.fm) is an interactive demo to showcase the new OpenAI text-to-speech models.
-It is built with NextJS and the [Speech API](https://platform.openai.com/docs/api-reference/audio/createSpeech).
+A 3D cartoonish rural Indian scene, a small pomegranate tree beside a railway track, leaves dry and yellow, intense summer sunlight, heat waves rising, cracked dry soil, Indian countryside background, clear blue sky, dramatic hot atmosphere, emotional mood, vertical 9:16
 
 For more information about text-to-speech using the OpenAI API, check out our [documentation](https://platform.openai.com/docs/guides/text-to-speech).
 
